@@ -51,7 +51,7 @@ inquirer.prompt([
 }
 ]).then((data) => {
     console.log(data)
-    fs.writeFile('README.md',readMe(data),(err) => {
+    fs.writeFile('README(1).md',readMe(data),(err) => {
         if (err) {
             console.error(err)
         } else {
