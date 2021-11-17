@@ -37,7 +37,7 @@ inquirer.prompt([
     choices: ["red","blue","yellow","green"],
     name: "Color"
 }, {
-    type: "input",
+    type: "ininjecrput",
     message: "List any contributors to the creation of this app",
     name: "Contributors"
 }, {
