@@ -1,5 +1,5 @@
 # README Generator
-    https://github.com/Kbove/README Generator
+    https://github.com/Kbove/README-Generator
     
 ## Description
     This is a simple application that takes user input and formats it, and write a markdown file 
