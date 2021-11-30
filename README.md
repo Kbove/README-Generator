@@ -13,10 +13,6 @@ https://watch.screencastify.com/v/Hd6tt6GxfCE7d328GpgC
     
 * [User Story](#Usage)
     
-* [License](#License)
-    
-* [Badges](#Badges)
-    
 * [Contributors](#Contributors)
     
 * [Tests](#Tests)
@@ -28,13 +24,6 @@ The following necessary dependencies must be installed to run the application: A
     
 ## User Story <a id="Usage"></a>
 Developers spend a lot of time creating, testing, and debugging applications. This README generator will save them time by allowing them to create README's without having to start from scratch
-    
-## Licenses <a id="License"></a>
-Eclipse-Public-1.0
-    
-## Badges <a id="Question"></a>
-    
-![License](https://img.shields.io/static/v1?label=license&message=Eclipse-Public-1.0&color=blue)
     
 ## Contributors <a id="Contributors"></a>
 Contributors: Me, myself, and I...and my tutors and instructors
