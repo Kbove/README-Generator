@@ -20,7 +20,7 @@ https://watch.screencastify.com/v/Hd6tt6GxfCE7d328GpgC
 * [Questions](#Question)
     
 ## Installation <a id="Installation"></a>
-The following necessary dependencies must be installed to run the application: Any OS with a command terminal
+The following necessary dependencies must be installed to run the application: Any OS with a command terminal. You must clone this repository to receive all of the files. All required npm packages in package.json, can be downloaded by entering "npm install" in command prompt at index.js. Start with "node index.js" in your command line.
     
 ## User Story <a id="Usage"></a>
 Developers spend a lot of time creating, testing, and debugging applications. This README generator will save them time by allowing them to create README's without having to start from scratch
