@@ -28,7 +28,7 @@ The following necessary dependencies must be installed to run the application: A
 Developers spend a lot of time creating, testing, and debugging applications. This README generator will save them time by allowing them to create README's without having to start from scratch
 
 ## Screenshot <a id="Screenshot"></a>
-
+![Screenshot](https://user-images.githubusercontent.com/89953218/147428162-4d4690fe-c36d-42ba-839a-05077c0d0063.JPG)
     
 ## Contributors <a id="Contributors"></a>
 Contributors: Me, myself, and I...and my tutors and instructors
