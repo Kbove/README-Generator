@@ -12,6 +12,8 @@ https://watch.screencastify.com/v/Hd6tt6GxfCE7d328GpgC
 * [Installation](#Installation)
     
 * [User Story](#Usage)
+
+* [Screenshot](#Screenshot)
     
 * [Contributors](#Contributors)
     
@@ -24,6 +26,9 @@ The following necessary dependencies must be installed to run the application: A
     
 ## User Story <a id="Usage"></a>
 Developers spend a lot of time creating, testing, and debugging applications. This README generator will save them time by allowing them to create README's without having to start from scratch
+
+## Screenshot <a id="Screenshot"></a>
+
     
 ## Contributors <a id="Contributors"></a>
 Contributors: Me, myself, and I...and my tutors and instructors
