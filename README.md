@@ -2,7 +2,7 @@
 https://github.com/Kbove/README-Generator
     
 ## Description
-This is a simple application that takes user input and formats it, and write a markdown file 
+This is a simple application that utilizes JavaScript, Node.js, and the Inquirer NPM package to in order to take user input, format it, and write a markdown file.
 
 ## Video 
 https://watch.screencastify.com/v/Hd6tt6GxfCE7d328GpgC
