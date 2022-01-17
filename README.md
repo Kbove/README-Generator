@@ -13,6 +13,8 @@ https://watch.screencastify.com/v/Hd6tt6GxfCE7d328GpgC
     
 * [User Story](#Usage)
 
+* [Features](#Features)
+
 * [Screenshot](#Screenshot)
     
 * [Contributors](#Contributors)
@@ -26,6 +28,10 @@ The following necessary dependencies must be installed to run the application: A
     
 ## User Story <a id="Usage"></a>
 Developers spend a lot of time creating, testing, and debugging applications. This README generator will save them time by allowing them to create README's without having to start from scratch
+
+## Features <a id="Features"></a>
+- Users can input their readme data into command terminal
+- Access the README(1) in the file structure when done
 
 ## Screenshot <a id="Screenshot"></a>
 ![Screenshot](https://user-images.githubusercontent.com/89953218/147428162-4d4690fe-c36d-42ba-839a-05077c0d0063.JPG)
